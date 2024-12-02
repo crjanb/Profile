@@ -24,7 +24,7 @@ const router = createBrowserRouter([
     element:<Experience/>
   },
   {
-    basename: "/Profile/",
+    basename: "/",
 }
 
 
